@@ -1,19 +1,85 @@
 <h1>Hi, I'm Aurelia! <br/><a href="https://github.com/AureliaBett">Programmer</a>, <a href="https://www.linkedin.com/in/aurelia-bett-78660b2a1//">Electrical and ELectronics Engineer</a>
   
-<h2>👨‍💻 Software Development Projects:</h2>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20👋%20I'm%20Aurelia&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20Electronics%20Engineer%20|%20IoT%20Enthusiast&descAlignY=55&descAlign=50" />
+</p>
 
-- <b>Frontend Website (javaScript. React, HTML, CSS)</b>
-  - [Web development](https://github.com/AureliaBett/DiversifiedOrg)
+---
 
-<h2>📺 YouTube Videos</h2>
+## 👩‍💻 About Me  
 
-- [AI-Powered Drainage Redesign Tool](https://youtu.be/8j5CgvPmoII)
+I’m a **Software Engineering Learner at ALX** with a background in **Electrical & Electronics Engineering**.  
+My passion lies in **writing and debugging code**, transforming complex problems into elegant solutions.  
 
+- 🌱 Currently learning **Backend, Frontend & IoT development**  
+- 💡 Bridging **hardware and software** to build impactful tech solutions  
+- 🔭 Exploring projects that combine **engineering fundamentals** with **modern software practices**  
+- 💬 Ask me about **JavaScript, Python, C, problem-solving, and IoT systems**  
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-https://www.linkedin.com/in/aurelia-bett-78660b2a1//
+## 🚀 Tech Stack  
 
+### 💻 Languages & Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,c" />
+</p>
+
+### 🛠 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,figma" />
+</p>
+
+### 🔌 IoT & Electronics  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />  
+</p>
+
+---
+
+## 📂 Featured Projects  
+
+🔹 **[Smart IoT Monitoring System](#)** – Real-time monitoring with IoT sensors and dashboards  
+🔹 **[Portfolio Website](#)** – A personal responsive portfolio built with React & Tailwind  
+🔹 **[ALX Backend Tasks](#)** – Problem-solving, APIs, and system design projects  
+
+👉 Check out my repositories for more!  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" height="160"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
 
 
